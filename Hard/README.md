@@ -4,9 +4,7 @@ This directory contains my solutions to the hard LeetCode database problems.
 
 ## Problems
 
-1. [Problem 1: Example Hard Problem](Problem1/README.md)
-2. [Problem 2: Another Hard Problem](Problem2/README.md)
-<!-- Add more problems as needed -->
+- [Trips and Users](./Trips%20and%20Users/README.md)
 
 ## How to Use
 

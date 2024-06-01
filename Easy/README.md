@@ -4,9 +4,7 @@ This directory contains my solutions to the easy LeetCode database problems.
 
 ## Problems
 
-1. [Problem 1: Example Easy Problem](Problem1/README.md)
-2. [Problem 2: Another Easy Problem](Problem2/README.md)
-<!-- Add more problems as needed -->
+- [Customers Who Never Order](./Customers%20Who%20Never%20Order/)
 
 ## How to Use
 
