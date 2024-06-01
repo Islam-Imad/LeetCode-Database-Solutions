@@ -4,9 +4,7 @@ This directory contains my solutions to the medium LeetCode database problems.
 
 ## Problems
 
-1. [Problem 1: Example Medium Problem](Problem1/README.md)
-2. [Problem 2: Another Medium Problem](Problem2/README.md)
-<!-- Add more problems as needed -->
+- [Nth Highest Salary](./Nth%20Highest%20Salary/README.md)
 
 ## How to Use
 
