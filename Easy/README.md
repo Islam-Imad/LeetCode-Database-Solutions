@@ -5,7 +5,4 @@ This directory contains my solutions to the easy LeetCode database problems.
 ## Problems
 
 - [Customers Who Never Order](./Customers%20Who%20Never%20Order/)
-
-## How to Use
-
-Navigate to the directory of each problem to find detailed descriptions and solutions.
+- [Customer Placing the Largest Number of Orders](./CustomerPlacingtheLargestNumberofOrders/)
