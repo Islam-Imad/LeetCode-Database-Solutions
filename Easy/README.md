@@ -14,3 +14,6 @@ This directory contains my solutions to the easy LeetCode database problems.
 - [Combine Two Tables](./Combine%20Two%20Tables/)
 
 - [Duplicate Emails](./Duplicate%20Emails/README.md)
+
+- [Game Play Analysis I](./Game%20Play%20Analysis%20I/README.md)
+- [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md)
