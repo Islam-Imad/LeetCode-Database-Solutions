@@ -5,7 +5,3 @@ This directory contains my solutions to the medium LeetCode database problems.
 ## Problems
 
 - [Nth Highest Salary](./Nth%20Highest%20Salary/README.md)
-
-## How to Use
-
-Navigate to the directory of each problem to find detailed descriptions and solutions.

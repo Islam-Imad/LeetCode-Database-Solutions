@@ -7,7 +7,3 @@ This directory contains my solutions to the hard LeetCode database problems.
 - [Trips and Users](./Trips%20and%20Users/README.md)
 
 - [Human Traffic of Stadium](./HumanTrafficofStadium/README.md)
-
-## How to Use
-
-Navigate to the directory of each problem to find detailed descriptions and solutions.
