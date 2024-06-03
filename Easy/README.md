@@ -10,3 +10,7 @@ This directory contains my solutions to the easy LeetCode database problems.
 - [Swap Salary](./Swap%20Salary/)
 
 - [Actors and Directors Who Cooperated At Least Three Times](./Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/)
+
+- [Combine Two Tables](./Combine%20Two%20Tables/)
+
+- [Duplicate Emails](./Duplicate%20Emails/README.md)

@@ -5,3 +5,6 @@ This directory contains my solutions to the medium LeetCode database problems.
 ## Problems
 
 - [Nth Highest Salary](./Nth%20Highest%20Salary/README.md)
+
+- [Rank Scores](./Rank%20Scores/README.md)
+- [Department Highest Salary](./Department%20Highest%20Salary/README.md)
