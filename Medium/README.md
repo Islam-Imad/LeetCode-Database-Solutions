@@ -10,3 +10,4 @@ This directory contains my solutions to the medium LeetCode database problems.
 - [Department Highest Salary](./Department%20Highest%20Salary/README.md)
 - [Tree Node](./Tree%20Node/README.md)
 - [Market Analysis I](./Market%20Analysis%20I/README.md)
+- [Capital Gail_Loss](./Capital%20Gail_Loss/README.md)
