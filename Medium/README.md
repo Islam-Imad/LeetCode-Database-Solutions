@@ -9,3 +9,4 @@ This directory contains my solutions to the medium LeetCode database problems.
 - [Rank Scores](./Rank%20Scores/README.md)
 - [Department Highest Salary](./Department%20Highest%20Salary/README.md)
 - [Tree Node](./Tree%20Node/README.md)
+- [Market Analysis I](./Market%20Analysis%20I/README.md)
