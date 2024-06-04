@@ -18,3 +18,4 @@ This directory contains my solutions to the easy LeetCode database problems.
 - [Game Play Analysis I](./Game%20Play%20Analysis%20I/README.md)
 - [Employees Earning More Than Their Managers](./Employees%20Earning%20More%20Than%20Their%20Managers/README.md)
 - [Sales Analysis III](./Sales%20Analysis%20III/README.md)
+- [Reformat Department Table](./Reformat%20Department%20Table/README.md)
