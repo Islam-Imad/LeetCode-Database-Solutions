@@ -1,6 +1,13 @@
 # LeetCode Database Solutions <img src="https://cdn-icons-png.flaticon.com/256/9850/9850812.png" width="25px" height="25px"></img>
 
-This repository contains my solutions to LeetCode database problems, categorized by difficulty.
+## SQL 50 FREE Study Plan
+
+I collaborated with my friends on SQL 50 FREE Study Plan. You can check out the dedicated repository for this plan [here](https://github.com/HamzaHassanain/Leetcode_SQL_50_Study_Plan).
+
+## Free Problems
+
+In this repository, I have included the remaining free problems on LeetCode. Currently, there are **26** free problems with their solutions available here.
+
 
 [![Easy](https://placehold.co/600x100/green/white?text=Easy)](./Easy/README.md)
 
